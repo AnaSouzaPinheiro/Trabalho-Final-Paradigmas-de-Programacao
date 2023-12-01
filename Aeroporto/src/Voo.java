@@ -49,13 +49,13 @@ public class Voo {
         String caminho;
         switch (num_Voo) {
             case 1:
-                caminho = "Aeroporto\\src\\bd\\1 - VOO BH-SP.txt";
+                caminho = "bd/1 - VOO BH-SP.txt";
                 break;
             case 2:                
-                caminho = "Aeroporto\\src\\bd\\2 - VOO BH-RIO.txt";
+                caminho = "bd/2 - VOO BH-RIO.txt";
                 break;
             case 3:
-                caminho = "Aeroporto\\src\\bd\\ListaEsperaBRA.txt";
+                caminho = "bd/ListaEsperaBRA.txt";
                 break;
             default:
                 caminho = "Nenhum arquivo encontrado";
@@ -67,13 +67,13 @@ public class Voo {
         String caminhoEspera;
         switch (num_Voo) {
             case 1:
-                caminhoEspera = "Aeroporto\\src\\bd\\ListaEsperaSP.txt";
+                caminhoEspera = "bd/ListaEsperaSP.txt";
                 break;
             case 2:                
-                caminhoEspera = "Aeroporto\\src\\bd\\ListaEsperaRIO.txt";
+                caminhoEspera = "bd/ListaEsperaRIO.txt";
                 break;
             case 3:
-                caminhoEspera = "Aeroporto\\src\\bd\\ListaEsperaBRA.txt";
+                caminhoEspera = "bd/ListaEsperaBRA.txt";
                 break;
             default:
                 caminhoEspera = "Nenhum arquivo encontrado";
