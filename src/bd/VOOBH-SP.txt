@@ -1,0 +1,90 @@
+391.995.381-99
+Ms. Leila G Cardoso
+Rua Coriolano Pompeu Paes de Campos 1591
+(18) 2549-2022
+A1
+345678
+1
+10:00
+BH-SP
+277.330.800-02
+Mr. João F Azevedo
+Travessa Cassimiro de Abreu 607
+(73) 2301-6357
+A2
+987654
+1
+10:00
+BH-SP
+647.762.371-48
+Mr. Cauã F Azevedo
+Avenida Perimetral 409
+(91) 6516-6968
+B1
+123456
+1
+10:00
+BH-SP
+802.256.461-37
+Mrs. Alice A Ferreira
+Rua Dialogita 1027
+(31) 7733-2053
+B2
+567890
+1
+10:00
+BH-SP
+920.484.130-30
+Mrs. Rafaela B Fernandes
+Rua A 940, Campo Largo
+(41) 6725-8019
+C1
+345678
+1
+10:00
+BH-SP
+650.368.461-41
+Mr. Rafael S Cavalcanti
+Rua Doutor Djalma Silva Almeida 1489
+(22) 5700-6195
+C2
+987654
+1
+10:00
+BH-SP
+342.876.579-69
+Mr. Miguel F Cardoso
+Avenida São Joaquim 1258
+(95) 4869-5919
+D1
+123456
+1
+10:00
+BH-SP
+453.178.287-91
+Mr. Jair Messias Bolsonaro
+Rua Divisoria 30 Casa 15
+(17) 2217-2217
+D2
+567890
+1
+10:00
+BH-SP
+159.425.235-17
+Mr. Nicolas R Barbosa
+Rua Natali 1045
+(11) 9875-9282
+E1
+112233
+1
+10:00
+BH-SP
+111.132.301-18
+Mr. Daniel C Melo
+Rua Quinhentos e Setenta e Dois-A 1196
+(24) 5152-5285
+E2
+445566
+1
+10:00
+BH-SP

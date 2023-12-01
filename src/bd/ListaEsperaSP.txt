@@ -1,0 +1,45 @@
+973.286.056-18
+Ms. Vitoria S Araujo
+Rua Laura dos Anjos Ramos 792
+(11) 4970-7407
+F1
+345678
+1
+10:00
+BH-SP
+856.630.935-91
+Mr. Caio G Barros
+Praça Rodrigues Alves 32
+(21) 4238-6183
+F2
+456789
+1
+10:00
+BH-SP
+281.397.367-08
+Mr. José P Fernandes
+Rua Corifeu de Azevedo Marques 67
+(11) 7496-4879
+G1
+567890
+1
+10:00
+BH-SP
+219.039.226-82
+Mr. Caio F Oliveira
+Rua Doutor Onezimo 1958
+(21) 7595-4468
+G2
+678901
+1
+10:00
+BH-SP
+952.800.766-00
+Mr. Kauã M Barros
+Praça Esperança 1406
+(21) 7444-7859
+H1
+789012
+1
+10:00
+BH-SP
