@@ -2,9 +2,9 @@
 
 Trabalho desenvolvido na linguagem JAVA, para o trabalho de Paradigmas da Programação, pelos alunos: 
 
-**Ana Letícia Souza Pinheiro
-Lucas Soares da Silva Lopes
-João Gabriel Ribeiro Holanda
+**Ana Letícia Souza Pinheiro,
+Lucas Soares da Silva Lopes,
+João Gabriel Ribeiro Holanda,
 Fernanda Mendes Marques de Oliveira**
 
 **ATENÇÃO!!!**
