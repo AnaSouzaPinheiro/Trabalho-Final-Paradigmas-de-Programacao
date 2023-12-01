@@ -55,7 +55,7 @@ public class Voo {
                 caminho = "bd/2 - VOO BH-RIO.txt";
                 break;
             case 3:
-                caminho = "bd/ListaEsperaBRA.txt";
+                caminho = "bd/3 - VOO BH-BRA..txt";
                 break;
             default:
                 caminho = "Nenhum arquivo encontrado";
