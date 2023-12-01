@@ -32,8 +32,6 @@ public class Voo {
             String _CPF = Lista_Passageiros.get(i).getCpf();
             if (_CPF.equalsIgnoreCase(Cpf)) {
                 System.out.println("Passageiro encontrado: " + Lista_Passageiros.get(i).toString());
-            }else {
-                System.out.println("Passageiro não encontrado!");
             }
         }
     }
@@ -42,8 +40,6 @@ public class Voo {
         for (int i = 0; i < Lista_Passageiros.size(); i++) {
             if (Lista_Passageiros.get(i).getNome().equalsIgnoreCase(Nome)) {
                 System.out.println("Passageiro encontrado: " + Lista_Passageiros.get(i).toString());
-            }else {
-                System.out.println("Passageiro não encontrado!");
             }
         }
     }
@@ -157,8 +153,6 @@ public class Voo {
                         salvarEmArquivo(getCaminho(), Lista_Passageiros);
                     }
                 }
-            }else {
-                System.out.println("Passageiro não encontrado!");
             }
         }
 
