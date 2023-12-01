@@ -5,5 +5,5 @@ Trabalho desenvolvido na linguagem JAVA, para o trabalho de Paradigmas da Progra
 Lucas Soares da Silva Lopes
 João Gabriel Ribeiro Holanda
 Fernanda Mendes Marques de Oliveira**
-
-**PARA O FUNCIONAMENTO CORRETO, EXTRAIR A PASTA 'src' E ABRIR A PASTA EXTRAÍDA NA IDE (VSCODE RECOMENDADO).**
+**ATENÇÃO!!!**
+**PARA O FUNCIONAMENTO CORRETO, ABRIR O PROGRAMA PELA PASTA 'src' NA IDE (VSCODE RECOMENDADO).**
