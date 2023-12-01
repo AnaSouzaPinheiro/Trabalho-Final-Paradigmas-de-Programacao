@@ -27,13 +27,13 @@ public class Voo {
     }
 
     public void PesquisarPassageiroCPF(String Cpf) {
-
         for (int i = 0; i < Lista_Passageiros.size(); i++) {
             String _CPF = Lista_Passageiros.get(i).getCpf();
             if (_CPF.equalsIgnoreCase(Cpf)) {
                 System.out.println("Passageiro encontrado: " + Lista_Passageiros.get(i).toString());
             }
         }
+        System.out.println("Passageiro não encontrado!");
     }
 
     public void PesquisarPassageiroNome(String Nome) {
@@ -42,6 +42,7 @@ public class Voo {
                 System.out.println("Passageiro encontrado: " + Lista_Passageiros.get(i).toString());
             }
         }
+        System.out.println("Passageiro não encontrado!");
     }
 
     public String getCaminho() {
