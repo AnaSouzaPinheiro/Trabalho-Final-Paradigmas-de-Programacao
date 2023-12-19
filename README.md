@@ -12,6 +12,7 @@ Fernanda Mendes Marques de Oliveira**
 **PARA O FUNCIONAMENTO CORRETO, EXTRAIR DO ZIP BAIXADO A PASTA 'TRABALHO-FINAL-PARADIGMAS-DE-PROGRAMACAO'. APÓS ISSO, ABRIR EXATAMENTE A PASTA 'src' NA IDE (VSCODE RECOMENDADO) PARA QUE NÃO HAJA ERROS DE DIRETÓRIO.**
 
 **ESPECIFICAÇÕES**
+
 Este projeto é programa em JAVA para atendentes de companhias aéreas, permitindo a venda de passagens, controle de filas de espera e gerenciamento de passageiros. Cada voo tem capacidade máxima de 10 passageiros, com excedentes direcionados para uma fila de espera de até 5 pessoas. Os dados são persistidos em arquivos de texto, e o sistema opera para os voos BH-RIO, BH-SP e BH-BRASÍLIA.
 
 **Funcionalidades do Menu**:
