@@ -15,6 +15,7 @@ Fernanda Mendes Marques de Oliveira**
 Este projeto é programa em JAVA para atendentes de companhias aéreas, permitindo a venda de passagens, controle de filas de espera e gerenciamento de passageiros. Cada voo tem capacidade máxima de 10 passageiros, com excedentes direcionados para uma fila de espera de até 5 pessoas. Os dados são persistidos em arquivos de texto, e o sistema opera para os voos BH-RIO, BH-SP e BH-BRASÍLIA.
 
 **Funcionalidades do Menu**:
+
 **1.** Lista de passageiros de um voo:
 Exibe CPF, Nome, Número da Passagem e Número da Poltrona de todos os passageiros do voo.
 
