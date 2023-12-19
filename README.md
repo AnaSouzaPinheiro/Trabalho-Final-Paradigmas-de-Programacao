@@ -35,5 +35,6 @@ Remove o passageiro da lista e automaticamente move um passageiro da lista de es
 **6.** Lista de espera:
 Mostra os passageiros da lista de espera do voo.
 
-**Banco de dados**
+**BANCO DE DADOS**
+
 **Nos arquivos .txt todos os voos estão lotados e apenas o voo de Brasília está com a lista de espera vazia!!**
